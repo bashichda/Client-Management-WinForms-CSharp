@@ -1,0 +1,12 @@
+C:\Users\Bashichda\source\repos\windowsFormCodeCourse\bin\Debug\MyFirstWindowsForm.exe.config
+C:\Users\Bashichda\source\repos\windowsFormCodeCourse\bin\Debug\MyFirstWindowsForm.exe
+C:\Users\Bashichda\source\repos\windowsFormCodeCourse\bin\Debug\MyFirstWindowsForm.pdb
+C:\Users\Bashichda\source\repos\windowsFormCodeCourse\obj\Debug\MyFirstWindowsForm.csproj.AssemblyReference.cache
+C:\Users\Bashichda\source\repos\windowsFormCodeCourse\obj\Debug\MyFirstWindowsForm.Form1.resources
+C:\Users\Bashichda\source\repos\windowsFormCodeCourse\obj\Debug\MyFirstWindowsForm.Properties.Resources.resources
+C:\Users\Bashichda\source\repos\windowsFormCodeCourse\obj\Debug\MyFirstWindowsForm.csproj.GenerateResource.cache
+C:\Users\Bashichda\source\repos\windowsFormCodeCourse\obj\Debug\MyFirstWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Bashichda\source\repos\windowsFormCodeCourse\obj\Debug\MyFirstWindowsForm.exe
+C:\Users\Bashichda\source\repos\windowsFormCodeCourse\obj\Debug\MyFirstWindowsForm.pdb
+C:\Users\Bashichda\source\repos\windowsFormCodeCourse\obj\Debug\MyFirstWindowsForm.exe.config
+C:\Users\Bashichda\source\repos\windowsFormCodeCourse\obj\Debug\MyFirstWindowsForm.Form2.resources
